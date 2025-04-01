@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hey there
+
+The real Ghadi is trying to develop himself as a developer.
+
 
 <!--
 **TheRealGhadi/TheRealGhadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
